@@ -11,4 +11,4 @@ git clone https://github.com/Hashima110/Hhs.git
 ls
 cd Hhs
 ls
-python2 Hhs.py
+python Hhs.py
